@@ -1,1 +1,4 @@
-
+[
+  { "username": "admin", "password": "rahasia123" },
+  { "username": "denzi", "password": "kingv2" }
+]
